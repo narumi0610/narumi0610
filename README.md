@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Narumi Miura 
+- 👋  Hi there! 
 - :runner:  I'm currently working a Flutter engneer
 - :house:  Fun fact: ｍanga:books:, anime:movie_camera:, seafood:fish:, music:musical_keyboard:, dog:dog2:
 
