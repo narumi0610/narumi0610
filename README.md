@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @narumi0610
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m narumi👋 
+- I develop apps using Flutter:octocat:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=narumi0610&theme=flag-india&show_icons=true" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narumi0610&layout=compact)](https://github.com/narumi0610/github-readme-stats)
 
 <!---
 narumi0610/narumi0610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
